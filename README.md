@@ -1,4 +1,4 @@
-# Major Project
+# Major Project 1
 Structural health monitoring has undergone a massive transformation in the last few
 years, which is only accelerating with the advent of new technologies and methods of
 testing. Traditional methods such as manual inspection and destructive testing often require
